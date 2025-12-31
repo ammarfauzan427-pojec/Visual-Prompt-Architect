@@ -1,0 +1,5 @@
+{
+  "name": "Visual Prompt Architect",
+  "description": "An advanced AI assistant that analyzes images and user inputs to generate structured, optimized image generation prompts for Composite, Inpainting, and Outpainting workflows.",
+  "requestFramePermissions": []
+}
